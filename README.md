@@ -1,6 +1,9 @@
 # GUY FIERI SAYS HAPPY BIRTHDAY
 Fun side project. This is a Twitterbot which allows for people to sign up via Google Form and wishes people happy birthday from a *fake* Guy Fieri. The goal of this bot is to put a smile on someone's face. 
 
+![alt text](https://media2.fdncms.com/clevescene/imager/u/original/33361684/wkbvjbjywtwoqyo_800x450_nopad.5ef0d95835b98.jpg)
+
+
 ## Improvements
 Deploy to Heroku
 Function to clean csv
