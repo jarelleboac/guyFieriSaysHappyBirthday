@@ -5,8 +5,7 @@ Fun side project. This is a Twitterbot which allows for people to sign up via Go
 
 
 ## Improvements
-Deploy to Heroku
-Function to clean csv
+Deploy to Heroku, Function to clean csv
 
 ## Quickstart
 ### Running the bot
