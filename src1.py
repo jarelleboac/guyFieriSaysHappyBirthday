@@ -34,6 +34,6 @@ for row in range(len(df_list)):
         this_month= str(Months[today.month]) #retrieve the Month based on month number
         this_day= str(today.day) #convert the day to a string
         #Publish Tweet
-        api.update_status("It's " + this_month + " " + this_day + ", you know what that means! Happy Birthday "+ str(df_list[row][0] + "! Hope it's Flavortown-tastic."))
+        api.update_status("It's " + this_month + " " + this_day + ", you know what that means! Happy Birthday "+ str(df_list[row][0]) + "," + str(df_list[row][1]) + "! Hope it's Flavortown-tastic.")
 
 
