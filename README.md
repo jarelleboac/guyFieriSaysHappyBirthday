@@ -1,4 +1,4 @@
-# guyFieriSaysHappyBirthday
+# GUY FIERI SAYS HAPPY BIRTHDAY
 Fun side project. This is a Twitterbot which allows for people to sign up via Google Form and wishes people happy birthday from a *fake* Guy Fieri. The goal of this bot is to put a smile on someone's face. 
 
 ## Improvements
